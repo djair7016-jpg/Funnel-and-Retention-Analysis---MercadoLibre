@@ -122,15 +122,6 @@ The observed segment differences were descriptive. They should not be described 
 - D7–D28 retention
 - Customer segmentation
 
-## Visualizations
-
-### Conversion Funnel
-
-![Conversion Funnel](images/funnel_dropoff.png)
-
-### Cohort Retention
-
-![Cohort Retention](images/cohort_retention.png)
 
 ## Repository Structure
 
